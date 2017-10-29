@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "icpCH3YuHsVobNkCCz6NUv69aFc=",
+			"path": "github.com/agtorre/gocolorize",
+			"revision": "99fea4bc9517f07eea8194702cb7076f4845b7de",
+			"revisionTime": "2017-02-17T02:13:38Z"
+		},
+		{
+			"checksumSHA1": "mA7isU/nIAT5ytwIzK65H0vlVqI=",
+			"path": "github.com/klauspost/compress/flate",
+			"revision": "d3a829afd165e1e870f10e010000bfa9db586d17",
+			"revisionTime": "2017-10-29T10:12:55Z"
+		},
+		{
+			"checksumSHA1": "kWBC7CTgppTdJFXizt4XkURbyCE=",
+			"path": "github.com/klauspost/compress/gzip",
+			"revision": "d3a829afd165e1e870f10e010000bfa9db586d17",
+			"revisionTime": "2017-10-29T10:12:55Z"
+		},
+		{
+			"checksumSHA1": "lb5ziTVkb1h/RJqfd+StlafY+BY=",
+			"path": "github.com/klauspost/compress/zlib",
+			"revision": "d3a829afd165e1e870f10e010000bfa9db586d17",
+			"revisionTime": "2017-10-29T10:12:55Z"
+		},
+		{
+			"checksumSHA1": "p7sb/xC1meQa9M23giwKiqrxaEc=",
+			"path": "github.com/klauspost/cpuid",
+			"revision": "ae7887de9fa5d2db4eaa8174a7eff2c1ac00f2da",
+			"revisionTime": "2017-07-28T05:55:34Z"
+		},
+		{
+			"checksumSHA1": "CoEBOYCjkx/0q2dcm6iGp2jGZjU=",
+			"path": "github.com/revel/config",
+			"revision": "662332b741dd464a886ab0901379c02b9bc5dc30",
+			"revisionTime": "2017-03-24T17:50:30Z"
+		},
+		{
+			"checksumSHA1": "nMkTizSUpRIlhgg+m5PZ50b4/tU=",
+			"path": "github.com/revel/modules/static/app/controllers",
+			"revision": "fde569219d0e349377cd9791cf8d91f5dd3cc10e",
+			"revisionTime": "2017-09-13T16:08:26Z"
+		},
+		{
+			"checksumSHA1": "etxrHwItxesgksq2XqaRzQe3PLw=",
+			"path": "github.com/revel/modules/testrunner/app",
+			"revision": "fde569219d0e349377cd9791cf8d91f5dd3cc10e",
+			"revisionTime": "2017-09-13T16:08:26Z"
+		},
+		{
+			"checksumSHA1": "WApzcpWyRkIjxpakeuu7lM4uhQ4=",
+			"path": "github.com/revel/modules/testrunner/app/controllers",
+			"revision": "fde569219d0e349377cd9791cf8d91f5dd3cc10e",
+			"revisionTime": "2017-09-13T16:08:26Z"
+		},
+		{
+			"checksumSHA1": "HO0GXSWcXZ8tbko0jw6F/Us/kGg=",
+			"path": "github.com/revel/pathtree",
+			"revision": "41257a1839e945fce74afd070e02bab2ea2c776a",
+			"revisionTime": "2014-01-21T04:10:23Z"
+		},
+		{
+			"checksumSHA1": "5mbNaRYLaJ2JvBOxQkTuyBkk1oo=",
+			"path": "github.com/revel/revel",
+			"revision": "417d285da1342bc4f5035cbfef31d85685b29297",
+			"revisionTime": "2017-07-18T15:46:17Z"
+		},
+		{
+			"checksumSHA1": "F3MxTVWYYo9QgEn17+djCsOCfn0=",
+			"path": "github.com/revel/revel/testing",
+			"revision": "417d285da1342bc4f5035cbfef31d85685b29297",
+			"revisionTime": "2017-07-18T15:46:17Z"
+		},
+		{
+			"checksumSHA1": "7EZyXN0EmZLgGxZxK01IJua4c8o=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "c73622c77280266305273cb545f54516ced95b93",
+			"revisionTime": "2017-06-11T01:16:46Z"
+		},
+		{
+			"checksumSHA1": "fpMj/kDG7CS480ToLzcQldO3MsU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "661970f62f5897bc0cd5fdca7e087ba8a98a8fa1",
+			"revisionTime": "2017-10-27T12:30:52Z"
+		},
+		{
+			"checksumSHA1": "eIhF+hmL/XZhzTiAwhLD0M65vlY=",
+			"path": "gopkg.in/fsnotify.v1",
+			"revision": "629574ca2a5df945712d3079857300b5e4da0236",
+			"revisionTime": "2016-10-11T02:33:12Z"
+		}
+	],
+	"rootPath": "github.com/rwibawa/go_web_03"
+}
